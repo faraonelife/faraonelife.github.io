@@ -1,0 +1,50 @@
+body{
+	background: #fc0;
+	text-align: center;
+
+}
+
+h1{
+	color: red;
+}
+a { font-size: 35px;
+    text-decoration: none;}
+span.info{
+	color: blue;
+ font-size: 35px;
+}
+p.list_info{font-size: 55px;
+	color: #6b5b95 ;
+	font-family: sans-serif;
+}
+ul{font-size: 35px;
+	color:#034f84;
+	font-family: fantasy;
+	 display: inline-block;
+}
+ol{color: navy;
+	display: inline-block;
+	padding-right:5px;
+	margin-left: : 20px;
+}
+p.movies_list{ font-size: 55px;}
+#modtext{font-size: 55px;
+	
+	color: #622569
+}
+
+
+img{
+	width: 500px;
+	height: 500px;
+	padding: 20px;
+}
+#friend{
+	color:#034f84;
+	font-size: 55px;
+	font-family: fantasy;
+	
+}
+#ps{color:#c83349;
+	font-size: 50px;
+	font-family: fantasy;}
